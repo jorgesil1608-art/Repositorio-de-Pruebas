@@ -39,7 +39,7 @@ robustos siguiendo las mejores prácticas de Cucumber.
 Cucumber usando **espanol** como idioma de los archivos
 feature.
 
-## 2. CRITERIOS DE ASEGURAMIENTO DE CALIDAD
+## 2. CRITERIOS DE ASEGURAMIENTO DE CALIDAD 02:19:54
 
 **OBLIGATORIO**: Aplicar TODOS los criterios de aseguramiento
 de calidad y lista de verificación de validación definidos en
